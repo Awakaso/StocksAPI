@@ -1,0 +1,4 @@
+Stock Market Portfolio app that let's save stock ticker symbols to the database, 
+connects to a third party API to collect stock market information about stocks.
+
+Website style using Bootstrap CSS framework.
